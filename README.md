@@ -7,6 +7,7 @@ A SkyBlock Flipping Mod.
 Discord - https://notenoughcoins.com/discord
 <br>
 Buy Premium - https://notenoughcoins.com/
+(SITE SHUT DOWN)
 
 - `/nec` - Shows the config GUI (Temporarily disabled until new GUI is implemented)
 - `/nec help` - Shows the help message containing all the subcommands and their usage
